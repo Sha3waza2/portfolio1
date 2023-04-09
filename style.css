@@ -1,0 +1,136 @@
+   * {
+            background-color: #f3f5f8;
+            padding-left: 20px;
+        }
+
+        .container {
+            padding-top: 10px;
+            width: 100%;
+            min-height: 10vh;
+        }
+
+        nav {
+            display: flex;
+            padding: 0px;
+        }
+
+        .list {
+            list-style-type: none;
+            text-decoration: none;
+            display: flex;
+            font-size: 20px;
+            padding-top: 10px;
+            padding-left: 20px;
+            position: relative;
+            right: -140px;
+            border-bottom: 2px #7f00ff;
+            transition: 0.3s;
+        }
+
+        .Logo {
+            font-size: 40px;
+            font-weight: 900;
+            color: #3d535f;
+            text-transform: capitalize;
+            position: relative;
+            right: -50px;
+            cursor: pointer;
+        }
+
+        b {
+            color: blueviolet;
+            font-size: 60px;
+        }
+
+        .body {
+            padding-right: 40px;
+            font-family: 'poppin', sans-serif;
+        }
+
+        header {
+            padding-top: 150px;
+            font-size: 20px;
+            font-weight: 500;
+            color: #3d535f;
+        }
+
+        .title {
+            color: #3d535f;
+            font-size: 30px;
+            font-family: 'poppin', sans-serif;
+
+        }
+
+        h1 {
+            font-family: 'poppin', sans-serif;
+            font-size: 4em;
+            color: #3d535f;
+        }
+
+        .p {
+            color: #3d535f;
+        }
+
+        a {
+            color: #3d535f;
+            text-decoration: none;
+            text-transform: capitalize;
+        }
+
+        a:hover {
+            color: #7f00ff;
+        }
+
+        .icons {
+            font-size: 25px;
+            padding-top: 25px;
+            margin-left: 30px;
+            position: relative;
+            right: -200px;
+            top: 8px;
+        }
+
+        .buttons {
+            padding: 10px;
+            margin-left: 20px;
+            margin-top: 60px;
+            display: flex;
+            font-family: 'poppin', sans-serif;
+
+        }
+
+        button {
+            box-shadow: 0px 0px 0px 2px rgb(0, 0, 0, 0.4);
+            background-color: #3d535f;
+            color: #fff;
+            width: 100px;
+            height: 50px;
+            text-align: center;
+            margin: 5px 5px;
+            font-family: 'poppin', sans-serif;
+            border-radius: 70px;
+        }
+
+        .pr {
+            color: #7f00ff;
+            font-size: 80px;
+            font-family: 'poppin', sans-serif;
+        }
+
+
+        button:hover {
+            background-color: #7f00ff;
+        }
+
+
+        img.splash {
+            width: 300px;
+            height: 400px;
+        }
+
+        div.fa {
+            float: right;
+            position: relative;
+            top: -400px;
+            left: -100px;
+        }
